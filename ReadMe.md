@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Desenvolvedor Full Stack<br>🌐 Desenvolvedor WEB<br><br>Amante da tecnologia inspirado pela curiosidade 
+🌐 Desenvolvedor WEB<br> 💻 Desenvolvedor Full Stack<br><br>Amante da tecnologia inspirado pela curiosidade 
 
 
 ## 🌐 Socials:
