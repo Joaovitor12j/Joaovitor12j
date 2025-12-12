@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Desenvolvedor Back-end <br> 💻 Desenvolvedor Full Stack<br><br>Amante da tecnologia inspirado pela curiosidade 
+🌐 Desenvolvedor Back-end <br> 💻 Desenvolvedor Full Stack<br><br>
 
 
 ## 🌐 Socials:
